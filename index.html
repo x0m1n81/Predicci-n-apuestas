@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#111827">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Predicción Apuestas</title>
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <main class="app">
+    <header>
+      <h1>Predicción Apuestas</h1>
+      <p>Analizador de partidos y picks</p>
+    </header>
+
+    <section class="card">
+      <h2>Buscar partido</h2>
+      <input id="match" type="text" placeholder="Ej.: Real Madrid - Barcelona">
+      <select id="sport">
+        <option>Fútbol</option>
+        <option>Baloncesto</option>
+        <option>Tenis</option>
+        <option>F1</option>
+        <option>MotoGP</option>
+        <option>Otros</option>
+      </select>
+      <button id="analyze">Analizar partido</button>
+    </section>
+
+    <section id="result" class="card hidden">
+      <h2>Resultado del análisis</h2>
+      <div id="pick"></div>
+      <div id="details"></div>
+    </section>
+
+    <section class="card info">
+      <h2>Fuentes</h2>
+      <p>La aplicación está preparada para incorporar datos externos cuando exista una fuente/API accesible. No inventa cuotas ni resultados en tiempo real.</p>
+    </section>
+  </main>
+  <script src="app.js"></script>
+</body>
+</html>
