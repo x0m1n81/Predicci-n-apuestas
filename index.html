@@ -1,0 +1,22 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="cache-control" content="no-cache">
+<title>Predicción de Apuestas V3</title>
+<style>
+:root{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif;color:#172033;background:#f7f8fb}
+*{box-sizing:border-box}body{margin:0}.wrap{max-width:900px;margin:auto;padding:18px}.head{padding:8px 2px 16px}.head h1{margin:0;font-size:28px}.head p{margin:7px 0;color:#667085}.controls{display:flex;gap:8px;flex-wrap:wrap;margin-bottom:14px}.controls select,.controls button{padding:11px 13px;border:1px solid #d9dee8;border-radius:11px;background:white;font-size:15px}.controls button{font-weight:700}.status{font-size:13px;color:#667085;margin:8px 0 14px}.top{background:#172033;color:white;border-radius:16px;padding:15px;margin-bottom:15px}.top h2{margin:0 0 10px;font-size:19px}.pick{background:white;border:1px solid #dfe3eb;border-radius:15px;padding:14px;margin:9px 0}.teams{font-weight:750;font-size:17px}.pickline{display:flex;justify-content:space-between;gap:10px;align-items:center;margin-top:10px}.pickname{font-size:18px;font-weight:800}.conf{font-weight:800;white-space:nowrap}.reason{font-size:12px;color:#667085;margin:7px 0 0}.events h2{font-size:20px}.event{background:white;border:1px solid #dfe3eb;border-radius:15px;padding:13px;margin:9px 0}.meta{font-size:12px;color:#667085}.time{font-size:13px;color:#667085;margin-top:5px}.footer{font-size:11px;color:#667085;text-align:center;margin:18px 0;line-height:1.5}.empty{background:white;border:1px solid #dfe3eb;border-radius:15px;padding:18px;color:#667085}.badge{display:inline-block;font-size:11px;padding:4px 7px;border-radius:999px;background:#eef1f6;margin-bottom:6px}.live{font-weight:800}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="head"><h1>🎯 Predicción de Apuestas</h1><p>Eventos reales + picks automáticos V3</p></section>
+<section class="controls"><select id="sport"><option value="all">Todos los deportes</option><option value="football">⚽ Fútbol</option><option value="basketball">🏀 NBA / Baloncesto</option><option value="tennis">🎾 Tenis</option><option value="racing">🏎️ F1</option></select><button id="refresh">🔄 Actualizar</button></section>
+<div id="status" class="status">Cargando eventos...</div>
+<section id="top"></section><section class="events"><h2>📅 Eventos encontrados</h2><div id="events"></div></section>
+<div class="footer">Los picks son señales algorítmicas basadas en los datos públicos disponibles y no garantizan resultados. No son asesoramiento financiero.</div>
+</main>
+<script src="app-v3.js?v=20261003-1"></script>
+</body></html>
