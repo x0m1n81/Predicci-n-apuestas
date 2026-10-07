@@ -63,4 +63,4 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Update data"
 
-          git pus
+          git push
