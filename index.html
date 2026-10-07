@@ -1,0 +1,56 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+  <meta name="theme-color" content="#101827">
+  <title>Predicción Apuestas</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="hero">
+    <h1>Predicción Apuestas</h1>
+    <p>Partidos de hoy, análisis y picks automáticos</p>
+  </header>
+
+  <main>
+    <section class="card">
+      <div class="toolbar">
+        <div>
+          <h2>Partidos de hoy</h2>
+          <span id="updated">Cargando datos…</span>
+        </div>
+        <button id="refresh" class="secondary">↻ Actualizar</button>
+      </div>
+
+      <div class="filters">
+        <button class="filter active" data-sport="all">Todos</button>
+        <button class="filter" data-sport="football">Fútbol</button>
+        <button class="filter" data-sport="basketball">Baloncesto</button>
+        <button class="filter" data-sport="tennis">Tenis</button>
+        <button class="filter" data-sport="racing">Motor</button>
+      </div>
+
+      <div class="filters subfilters">
+        <button class="grade-filter active" data-grade="all">Todos los niveles</button>
+        <button class="grade-filter" data-grade="premium">🟢 Premium</button>
+        <button class="grade-filter" data-grade="strong">🟢 Fuerte</button>
+        <button class="grade-filter" data-grade="medium">🟡 Medio</button>
+        <button class="grade-filter" data-grade="avoid">🔴 No Bet</button>
+      </div>
+
+      <div id="status" class="status">Buscando eventos…</div>
+      <div id="matches"></div>
+    </section>
+
+    <section class="card info">
+      <h2>Cómo funciona</h2>
+      <p>El motor combina las señales públicas disponibles: predictor, mercado y récord cuando están presentes. Cuantas más señales independientes hay y mayor es la diferencia entre equipos, mayor es la puntuación.</p>
+      <p class="small">Importante: esta versión no promete un winrate determinado. No inventa cuotas ni datos y marca como «No Bet» los casos débiles. Fuente de eventos: endpoints públicos de ESPN.</p>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
