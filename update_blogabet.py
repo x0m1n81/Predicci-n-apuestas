@@ -6,7 +6,7 @@ from pathlib import Path
 
 import requests
 
-ROOT = Path(__file__).resolve().parents[1]
+ROOT = Path(__file__).resolve().parent
 OUT = ROOT / "data.json"
 TIMEOUT = 25
 HEADERS = {"User-Agent": "Mozilla/5.0 (compatible; PicksAggregator/1.0)", "Accept": "application/json"}
