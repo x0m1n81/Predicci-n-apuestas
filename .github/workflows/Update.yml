@@ -49,7 +49,7 @@ jobs:
 
       - name: Run update
 
-        run: python update_blogabet.py
+        run: python update_picks.py
 
       - name: Commit changes
 
