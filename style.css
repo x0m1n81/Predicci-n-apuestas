@@ -1,0 +1,23 @@
+
+:root{--bg:#0b1020;--card:#151d31;--card2:#1c2740;--text:#f5f7fb;--muted:#aab4c7;--accent:#5b8cff;--good:#41d17b;--border:#2b3752}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(180deg,#080d19,#111a2d);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.wrap{max-width:760px;margin:auto;padding:16px 14px 50px}
+header,.pick,.empty{background:var(--card);border:1px solid var(--border);border-radius:18px;padding:18px}
+header h1{margin:0 0 7px;font-size:27px}
+header p{margin:0;color:var(--muted);font-size:14px;line-height:1.45}
+.controls{display:flex;gap:10px;flex-wrap:wrap;margin:14px 0}
+button,.file{border:1px solid var(--border);background:var(--accent);color:white;border-radius:12px;padding:12px 15px;font-weight:700;cursor:pointer}
+button:disabled{opacity:.6}
+.file input{display:none}
+.status,.info{color:var(--muted);font-size:12px;margin:10px 2px}
+.pick{margin:10px 0}
+.rank{color:var(--muted);font-size:12px}
+.pick h2{margin:7px 0;font-size:21px}
+.market{font-size:17px;margin:5px 0 12px}
+.score{display:flex;justify-content:space-between;gap:10px;background:var(--card2);padding:10px;border-radius:10px;font-weight:800;color:var(--good)}
+.meta{font-size:12px;color:var(--muted);margin-top:10px}
+details{margin-top:12px;font-size:12px;color:var(--muted)}
+.empty{text-align:center;color:var(--muted);margin-top:10px}
+footer{text-align:center;color:var(--muted);font-size:11px;line-height:1.5;margin-top:18px}
+code{background:#0b1020;padding:2px 4px;border-radius:5px}
