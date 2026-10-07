@@ -1,6 +1,6 @@
 name: Update data
 
-on:
+on: 
 
   workflow_dispatch:
 
