@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#0a1020">
+<link rel="manifest" href="manifest.json">
+<title>Blogabet Picks V6</title>
+<style>
+:root{--bg:#071022;--card:#151d33;--border:#2b3b60;--text:#f2f5ff;--muted:#aab4cc;--blue:#5b8df6;--good:#54d6a7}
+*{box-sizing:border-box}
+body{margin:0;background:linear-gradient(#071022,#091426);color:var(--text);font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",sans-serif}
+.wrap{max-width:900px;margin:auto;padding:22px 16px 60px}
+.hero,.pick,.empty,.panel{background:var(--card);border:1px solid var(--border);border-radius:22px}
+.hero{padding:24px}
+.hero h1{font-size:30px;margin:0 0 8px}
+.hero p{color:var(--muted);line-height:1.45;margin:0}
+.buttons{display:flex;gap:10px;margin:16px 0}
+.btn{border:0;background:var(--blue);color:white;border-radius:16px;padding:15px 18px;font-size:16px;font-weight:700;flex:1}
+.btn.alt{background:#26385f}
+.status{color:var(--muted);font-size:14px;margin:12px 4px}
+.pick{padding:17px;margin:10px 0}
+.top{display:flex;justify-content:space-between;gap:10px;color:var(--muted);font-size:13px}
+.score{background:#26385f;border-radius:999px;padding:5px 9px;color:#fff;font-weight:800}
+.match{font-size:19px;font-weight:800;margin:9px 0}
+.selection{font-size:21px;font-weight:800}
+.meta{color:var(--muted);font-size:13px;margin-top:7px}
+.empty,.panel{padding:24px;margin-top:16px}
+.empty{text-align:center}
+.note{color:var(--muted);font-size:13px;line-height:1.5;text-align:center;margin-top:22px}
+@media(max-width:600px){.hero h1{font-size:27px}.buttons{flex-direction:column}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero">
+<h1>🎯 Blogabet Picks V6</h1>
+<p>Filtra picks reales de Blogabet usando rendimiento histórico, yield, winrate, cuota y consenso. No se generan apuestas ficticias.</p>
+</section>
+<div class="buttons">
+<button class="btn" id="refresh">🔄 Actualizar datos</button>
+<button class="btn alt" id="import">📥 Importar JSON</button>
+<input id="file" type="file" accept="application/json" hidden>
+</div>
+<div class="status" id="status">Cargando…</div>
+<section id="content"></section>
+<p class="note">El marcador es un filtro estadístico, no una garantía de beneficio. Las apuestas deportivas implican riesgo.</p>
+</main>
+<script src="app_3_corregido.js"></script>
+</body>
+</html>
