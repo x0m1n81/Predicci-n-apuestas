@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="theme-color" content="#08111f">
+<link rel="manifest" href="manifest.json">
+<title>Predicci-n Apuestas</title>
+<style>
+:root{--bg:#060b14;--bg2:#0b1424;--card:#101a2b;--card2:#17243a;--border:#263852;--text:#f7f9ff;--muted:#9aa9c2;--blue:#5b8df6;--blue2:#7aa5ff;--good:#42d3a4;--shadow:0 18px 50px rgba(0,0,0,.28)}
+*{box-sizing:border-box}html{scroll-behavior:smooth}
+body{margin:0;min-height:100vh;color:var(--text);background:radial-gradient(circle at 12% -5%,rgba(91,141,246,.18),transparent 34%),radial-gradient(circle at 92% 8%,rgba(66,211,164,.08),transparent 28%),linear-gradient(145deg,var(--bg),var(--bg2));font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Arial,sans-serif}
+.wrap{max-width:980px;margin:auto;padding:14px 12px 50px}
+.hero{position:relative;overflow:hidden;padding:23px 20px;border:1px solid var(--border);border-radius:26px;background:linear-gradient(145deg,rgba(23,36,58,.97),rgba(12,20,35,.97));box-shadow:var(--shadow)}
+.hero:after{content:"";position:absolute;width:180px;height:180px;border-radius:50%;right:-70px;top:-85px;background:rgba(91,141,246,.13)}
+.brand{display:flex;align-items:center;gap:12px;position:relative;z-index:1}.logo{width:47px;height:47px;display:grid;place-items:center;border-radius:15px;background:linear-gradient(135deg,var(--blue2),var(--blue));font-size:24px}
+.hero h1{margin:0;font-size:27px;letter-spacing:-.5px}.hero p{position:relative;z-index:1;color:var(--muted);line-height:1.5;margin:10px 0 0;font-size:14px;max-width:760px}
+.toolbar{display:grid;grid-template-columns:1.2fr 1fr 1fr;gap:10px;margin:13px 0}
+.btn,.select{width:100%;min-height:46px;border:1px solid rgba(255,255,255,.09);border-radius:15px;padding:11px 13px;font-size:14px;font-weight:750;color:#fff;background:var(--card2)}
+.btn{cursor:pointer;background:linear-gradient(135deg,var(--blue2),var(--blue));box-shadow:0 8px 24px rgba(55,100,205,.16)}.select{font-weight:600;color:var(--text)}
+.status{display:flex;align-items:center;gap:8px;color:var(--muted);font-size:13px;margin:10px 4px 12px}.status:before{content:"";width:7px;height:7px;flex:none;border-radius:50%;background:var(--good);box-shadow:0 0 10px rgba(66,211,164,.65)}
+.panel{padding:17px;margin:13px 0;border:1px solid var(--border);border-radius:21px;background:rgba(16,26,43,.92);box-shadow:0 10px 32px rgba(0,0,0,.16)}.panel h2{margin:0 0 12px;font-size:18px}
+.card{position:relative;overflow:hidden;padding:17px;margin:10px 0;border:1px solid var(--border);border-radius:18px;background:linear-gradient(145deg,rgba(18,29,47,.98),rgba(12,21,36,.98));transition:transform .16s ease,border-color .16s ease,box-shadow .16s ease}
+.card:hover{transform:translateY(-2px);border-color:#38527f;box-shadow:0 13px 30px rgba(0,0,0,.2)}.topCard{border-color:rgba(91,141,246,.45);box-shadow:0 8px 25px rgba(55,100,205,.10)}
+.meta{color:var(--muted);font-size:12px;line-height:1.45}.cardHead{display:flex;align-items:center;justify-content:space-between;gap:10px}.rank{display:inline-grid;place-items:center;min-width:24px;height:24px;margin-right:4px;border-radius:8px;background:rgba(91,141,246,.18);color:#dbe7ff}.sportBadge{flex:none;padding:5px 8px;border-radius:999px;background:rgba(255,255,255,.06);border:1px solid rgba(255,255,255,.08);font-size:11px;color:#dce5f5;white-space:nowrap}
+.match{font-size:17px;font-weight:850;margin:10px 0 8px;line-height:1.3}.selection{display:block;font-size:17px;font-weight:900;line-height:1.25;color:#fff;background:rgba(91,141,246,.10);border:1px solid rgba(91,141,246,.24);border-radius:12px;padding:9px 11px}
+.row{display:flex;justify-content:space-between;gap:12px;margin-top:11px;font-size:13px;color:var(--muted)}.row b{color:#fff}.details{display:flex;justify-content:space-between;gap:12px;margin-top:9px}.details span:last-child{text-align:right}
+.empty{padding:22px;text-align:center;color:var(--muted);border:1px dashed #334763;border-radius:16px}.note{color:#7785a2;font-size:12px;line-height:1.5;text-align:center;margin:18px auto 0;max-width:760px}
+@media(max-width:650px){.wrap{padding:11px 10px 38px}.hero{padding:20px 16px;border-radius:23px}.hero h1{font-size:23px}.toolbar{grid-template-columns:1fr 1fr}.toolbar .btn{grid-column:1/-1}.card{padding:15px}.match{font-size:16px}.selection{font-size:16px}.row{flex-wrap:wrap}.details{display:block}.details span{display:block}.details span:last-child{text-align:left;margin-top:3px}.sportBadge{font-size:10px;padding:4px 7px}}
+</style>
+</head>
+<body>
+<main class="wrap">
+<section class="hero"><div class="brand"><div class="logo">🎯</div><h1>Predicci-n Apuestas</h1></div><p>Picks reales de varias fuentes, ordenados por calidad. El TOP 5 prioriza picks activos, recientes y evita repetir el mismo partido.</p></section>
+<div class="toolbar">
+<button class="btn" id="refresh">🔄 Actualizar datos</button>
+<select class="select" id="source" aria-label="Filtrar por fuente"><option value="all">Todas las fuentes</option></select>
+<select class="select" id="sport" aria-label="Filtrar por deporte"><option value="all">Todos los deportes</option><option value="football">⚽ Fútbol</option><option value="basketball">🏀 Baloncesto</option><option value="tennis">🎾 Tenis</option><option value="baseball">⚾ Béisbol</option><option value="hockey">🏒 Hockey</option><option value="american_football">🏈 NFL</option><option value="boxing">🥊 Boxeo</option><option value="mma">🥋 MMA</option><option value="motorsport">🏎️ Motor</option><option value="rugby">🏉 Rugby</option><option value="handball">🤾 Balonmano</option><option value="other">Otros</option></select></div>
+<input id="file" type="file" accept="application/json" hidden>
+<div class="status" id="status">Cargando…</div>
+<section class="panel" id="top"></section>
+<section class="panel" id="list"></section>
+<p class="note">El marcador es un filtro estadístico, no una garantía de beneficio. Las apuestas deportivas implican riesgo.</p>
+</main>
+<script src="app_3_corregido.js"></script>
+</body>
+</html>
