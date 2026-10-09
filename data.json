@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-09T21:17:44.171284+00:00",
+  "updated_at": "2026-10-09T22:17:33.571064+00:00",
   "status": "ok",
-  "count": 1672,
+  "count": 1676,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1563,
-    "Capper.win": 79
+    "Capper.win": 83
   },
   "errors": {},
   "picks": [
@@ -112,6 +112,20 @@
       "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/sc-braga-vs-sporting-cp-1565",
+      "pick": "Under 5.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-09T19:15:00+00:00",
+      "event_at": "2026-10-09T19:15:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sc-braga-vs-sporting-cp-1565",
       "pick": "Under 2.5",
       "market": "total_goals",
       "odds": null,
@@ -120,6 +134,48 @@
       "sport": "football",
       "league": "Primeira Liga",
       "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sc-braga-vs-sporting-cp-1565",
+      "pick": "Under 9",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-09T19:15:00+00:00",
+      "event_at": "2026-10-09T19:15:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sc-braga-vs-sporting-cp-1565",
+      "pick": "Draw/Away",
+      "market": "double_chance",
+      "odds": null,
+      "published_at": "2026-10-09T19:15:00+00:00",
+      "event_at": "2026-10-09T19:15:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sc-braga-vs-sporting-cp-1565",
+      "pick": "Away 0",
+      "market": "handicap",
+      "odds": null,
+      "published_at": "2026-10-09T19:15:00+00:00",
+      "event_at": "2026-10-09T19:15:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "hit",
       "filter_score": 63
     },
     {
