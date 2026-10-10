@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-10T22:16:14.502467+00:00",
+  "updated_at": "2026-10-10T23:15:15.639665+00:00",
   "status": "ok",
-  "count": 1884,
+  "count": 1890,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1563,
-    "Capper.win": 293
+    "Capper.win": 299
   },
   "errors": {},
   "picks": [
@@ -22,6 +22,90 @@
       "sport": "football",
       "league": "Major League Soccer",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigre-vs-banfield-1728",
+      "pick": "Under 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T22:15:00+00:00",
+      "event_at": "2026-10-10T22:15:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/tigre-vs-banfield-1728",
+      "pick": "Under 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T22:15:00+00:00",
+      "event_at": "2026-10-10T22:15:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/vasco-da-gama-vs-remo-1645",
+      "pick": "Under 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T21:00:00+00:00",
+      "event_at": "2026-10-10T21:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/vasco-da-gama-vs-remo-1645",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T21:00:00+00:00",
+      "event_at": "2026-10-10T21:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/vasco-da-gama-vs-remo-1645",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-10T21:00:00+00:00",
+      "event_at": "2026-10-10T21:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/vasco-da-gama-vs-remo-1645",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-10T21:00:00+00:00",
+      "event_at": "2026-10-10T21:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
       "filter_score": 63
     },
     {
