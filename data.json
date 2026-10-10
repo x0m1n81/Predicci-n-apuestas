@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-10T03:17:43.944309+00:00",
+  "updated_at": "2026-10-10T04:17:53.961086+00:00",
   "status": "ok",
-  "count": 1617,
+  "count": 1619,
   "sources": {
     "SportsPickLab": 24,
     "NuroPicks": 1563,
-    "Capper.win": 30
+    "Capper.win": 32
   },
   "errors": {},
   "picks": [
@@ -316,6 +316,34 @@
       "sport": "football",
       "league": "Premier League",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigres-uanl-vs-toluca-1568",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T03:00:00+00:00",
+      "event_at": "2026-10-10T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigres-uanl-vs-toluca-1568",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T03:00:00+00:00",
+      "event_at": "2026-10-10T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
       "filter_score": 63
     },
     {
