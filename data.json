@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-10T11:15:52.490043+00:00",
+  "updated_at": "2026-10-10T12:20:53.733626+00:00",
   "status": "ok",
-  "count": 1627,
+  "count": 1631,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1563,
-    "Capper.win": 37
+    "Capper.win": 41
   },
   "errors": {},
   "picks": [
@@ -307,6 +307,34 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/genclerbirligi-sk-vs-amed-1569",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:30:00+00:00",
+      "event_at": "2026-10-10T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/genclerbirligi-sk-vs-amed-1569",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:30:00+00:00",
+      "event_at": "2026-10-10T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/obolon-brovar-vs-kryvbas-kr-1614",
       "pick": "Under 2.5",
       "market": "total_goals",
@@ -358,6 +386,34 @@
       "sport": "football",
       "league": "Premier League",
       "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/chornomorets-vs-fc-kharkiv-1609",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "event_at": "2026-10-10T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/chornomorets-vs-fc-kharkiv-1609",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "event_at": "2026-10-10T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "hit",
       "filter_score": 63
     },
     {
