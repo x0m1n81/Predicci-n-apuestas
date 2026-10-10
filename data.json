@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-10T10:16:32.892606+00:00",
+  "updated_at": "2026-10-10T11:15:52.490043+00:00",
   "status": "ok",
-  "count": 1624,
+  "count": 1627,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1563,
-    "Capper.win": 34
+    "Capper.win": 37
   },
   "errors": {},
   "picks": [
@@ -307,6 +307,20 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/obolon-brovar-vs-kryvbas-kr-1614",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "event_at": "2026-10-10T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/kolos-kovalivka-vs-epitsentr-dunayivtsi-1611",
       "pick": "Under 3.5",
       "market": "total_goals",
@@ -315,7 +329,35 @@
       "event_at": "2026-10-10T10:00:00+00:00",
       "sport": "football",
       "league": "Premier League",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/kolos-kovalivka-vs-epitsentr-dunayivtsi-1611",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "event_at": "2026-10-10T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/kolos-kovalivka-vs-epitsentr-dunayivtsi-1611",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-10T10:00:00+00:00",
+      "event_at": "2026-10-10T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "miss",
       "filter_score": 63
     },
     {
