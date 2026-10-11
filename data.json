@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-11T19:16:15.603011+00:00",
+  "updated_at": "2026-10-11T20:16:31.185625+00:00",
   "status": "ok",
-  "count": 1853,
+  "count": 1860,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1563,
-    "Capper.win": 260
+    "Capper.win": 267
   },
   "errors": {},
   "picks": [
@@ -427,7 +427,7 @@
       "event_at": "2026-10-11T19:00:00+00:00",
       "sport": "football",
       "league": "La Liga",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -447,6 +447,34 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/legia-warszawa-vs-wisla-krakow-1708",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-11T18:15:00+00:00",
+      "event_at": "2026-10-11T18:15:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/legia-warszawa-vs-wisla-krakow-1708",
+      "pick": "Under 9",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-11T18:15:00+00:00",
+      "event_at": "2026-10-11T18:15:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
+      "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
       "pick": "Under 3.5",
       "market": "total_goals",
@@ -455,7 +483,77 @@
       "event_at": "2026-10-11T17:45:00+00:00",
       "sport": "football",
       "league": "Liga Profesional Argentina",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
+      "pick": "Under 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-11T17:45:00+00:00",
+      "event_at": "2026-10-11T17:45:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
+      "pick": "Over 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-11T17:45:00+00:00",
+      "event_at": "2026-10-11T17:45:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
+      "pick": "Over 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-11T17:45:00+00:00",
+      "event_at": "2026-10-11T17:45:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
+      "pick": "Under 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-11T17:45:00+00:00",
+      "event_at": "2026-10-11T17:45:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/san-lorenzo-vs-deportivo-riestra-1726",
+      "pick": "Over 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-11T17:45:00+00:00",
+      "event_at": "2026-10-11T17:45:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
       "filter_score": 63
     },
     {
@@ -567,7 +665,7 @@
       "event_at": "2026-10-11T17:15:00+00:00",
       "sport": "football",
       "league": "Jupiler Pro League",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
