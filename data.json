@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T12:33:05.405156+00:00",
+  "updated_at": "2026-10-12T13:35:09.693389+00:00",
   "status": "ok",
-  "count": 1606,
+  "count": 1607,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1563,
-    "Capper.win": 15
+    "Capper.win": 16
   },
   "errors": {},
   "picks": [
@@ -92,6 +92,20 @@
       "sport": "football",
       "league": "Segunda División",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/valladolid-vs-albacete-1738",
+      "pick": "Under 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-12T12:00:00+00:00",
+      "event_at": "2026-10-12T12:00:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "miss",
       "filter_score": 63
     },
     {
