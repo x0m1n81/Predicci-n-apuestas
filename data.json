@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T11:20:31.719611+00:00",
+  "updated_at": "2026-10-12T12:33:05.405156+00:00",
   "status": "ok",
-  "count": 1602,
+  "count": 1606,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1563,
-    "Capper.win": 11
+    "Capper.win": 15
   },
   "errors": {},
   "picks": [
@@ -69,6 +69,34 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/valladolid-vs-albacete-1738",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T12:00:00+00:00",
+      "event_at": "2026-10-12T12:00:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/valladolid-vs-albacete-1738",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T12:00:00+00:00",
+      "event_at": "2026-10-12T12:00:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/livyi-bereh-vs-zorya-luhansk-1612",
       "pick": "Under 3.5",
       "market": "total_goals",
@@ -77,7 +105,35 @@
       "event_at": "2026-10-12T10:00:00+00:00",
       "sport": "football",
       "league": "Premier League",
-      "result": "pending",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/livyi-bereh-vs-zorya-luhansk-1612",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T10:00:00+00:00",
+      "event_at": "2026-10-12T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/livyi-bereh-vs-zorya-luhansk-1612",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T10:00:00+00:00",
+      "event_at": "2026-10-12T10:00:00+00:00",
+      "sport": "football",
+      "league": "Premier League",
+      "result": "hit",
       "filter_score": 63
     },
     {
