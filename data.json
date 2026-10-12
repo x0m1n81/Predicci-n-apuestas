@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T17:19:07.574362+00:00",
+  "updated_at": "2026-10-12T18:21:27.934943+00:00",
   "status": "ok",
-  "count": 1599,
+  "count": 1602,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1563,
-    "Capper.win": 8
+    "Capper.win": 11
   },
   "errors": {},
   "picks": [
@@ -152,6 +152,34 @@
     },
     {
       "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/oviedo-vs-eibar-1744",
+      "pick": "Over 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T16:30:00+00:00",
+      "event_at": "2026-10-12T16:30:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/atalanta-vs-venezia-1743",
+      "pick": "Under 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-12T16:30:00+00:00",
+      "event_at": "2026-10-12T16:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/ac-oulu-vs-hjk-helsinki-1742",
       "pick": "Under 2.5",
@@ -161,6 +189,20 @@
       "event_at": "2026-10-12T16:00:00+00:00",
       "sport": "football",
       "league": "Veikkausliiga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/radomiak-radom-vs-motor-lublin-1741",
+      "pick": "Over 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-12T16:00:00+00:00",
+      "event_at": "2026-10-12T16:00:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
       "result": "miss",
       "filter_score": 63
     },
