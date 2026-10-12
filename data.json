@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T01:21:19.694712+00:00",
+  "updated_at": "2026-10-12T02:19:27.557684+00:00",
   "status": "ok",
-  "count": 1598,
+  "count": 1600,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1563,
-    "Capper.win": 5
+    "Capper.win": 7
   },
   "errors": {},
   "picks": [
@@ -78,6 +78,34 @@
       "sport": "football",
       "league": "Premier League",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/unam-pumas-vs-cruz-azul-1737",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T01:15:00+00:00",
+      "event_at": "2026-10-12T01:15:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/unam-pumas-vs-cruz-azul-1737",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T01:15:00+00:00",
+      "event_at": "2026-10-12T01:15:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
       "filter_score": 63
     },
     {
