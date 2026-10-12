@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T19:17:48.460753+00:00",
+  "updated_at": "2026-10-12T20:19:13.675369+00:00",
   "status": "ok",
-  "count": 1652,
+  "count": 1658,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1563,
-    "Capper.win": 59
+    "Capper.win": 65
   },
   "errors": {},
   "picks": [
@@ -391,6 +391,48 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/levante-vs-sevilla-1754",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "event_at": "2026-10-12T19:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/levante-vs-sevilla-1754",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "event_at": "2026-10-12T19:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/levante-vs-sevilla-1754",
+      "pick": "Over 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T19:00:00+00:00",
+      "event_at": "2026-10-12T19:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/torino-vs-udinese-1750",
       "pick": "Over 1.5",
       "market": "total_goals",
@@ -399,7 +441,49 @@
       "event_at": "2026-10-12T18:45:00+00:00",
       "sport": "football",
       "league": "Serie A",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/torino-vs-udinese-1750",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T18:45:00+00:00",
+      "event_at": "2026-10-12T18:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/torino-vs-udinese-1750",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T18:45:00+00:00",
+      "event_at": "2026-10-12T18:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/torino-vs-udinese-1750",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T18:45:00+00:00",
+      "event_at": "2026-10-12T18:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -413,7 +497,7 @@
       "event_at": "2026-10-12T18:30:00+00:00",
       "sport": "football",
       "league": "Ekstraklasa",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
