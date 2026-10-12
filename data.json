@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-12T22:17:23.604840+00:00",
+  "updated_at": "2026-10-12T23:18:12.698221+00:00",
   "status": "ok",
-  "count": 1686,
+  "count": 1687,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1563,
-    "Capper.win": 93
+    "Capper.win": 94
   },
   "errors": {},
   "picks": [
@@ -21,7 +21,21 @@
       "event_at": "2026-10-12T22:30:00+00:00",
       "sport": "football",
       "league": "Serie A",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/chapecoense-sc-vs-atletico-paranaense-1756",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-12T22:30:00+00:00",
+      "event_at": "2026-10-12T22:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
       "filter_score": 63
     },
     {
