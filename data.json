@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-13T01:21:03.871437+00:00",
+  "updated_at": "2026-10-13T02:19:23.311811+00:00",
   "status": "ok",
-  "count": 1598,
+  "count": 1600,
   "sources": {
     "SportsPickLab": 26,
     "NuroPicks": 1564,
-    "Capper.win": 8
+    "Capper.win": 10
   },
   "errors": {},
   "picks": [
@@ -428,6 +428,34 @@
       "sport": "football",
       "league": "Serie A",
       "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/rb-bragantino-vs-cruzeiro-1757",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "event_at": "2026-10-13T00:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/rb-bragantino-vs-cruzeiro-1757",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-13T00:00:00+00:00",
+      "event_at": "2026-10-13T00:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
       "filter_score": 63
     },
     {
