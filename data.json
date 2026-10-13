@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-13T10:21:08.588176+00:00",
+  "updated_at": "2026-10-13T11:20:19.637210+00:00",
   "status": "ok",
   "count": 1600,
   "sources": {
@@ -107,6 +107,34 @@
       "league": "UEFA Champions League",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Birmingham City FC vs Preston North End FC: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-13T10:50:10.766Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Sabah FK vs SK Slavia Praha: Away Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-13T10:50:09.910Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -368,34 +396,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-13T01:20:08.783Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Dallas Stars vs Colorado Avalanche: Over 5.5",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-13T01:20:08.777Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Dallas Stars vs Colorado Avalanche: Colorado Avalanche ML",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-13T01:20:08.768Z",
       "event_at": "",
       "sport": "",
       "league": "",
