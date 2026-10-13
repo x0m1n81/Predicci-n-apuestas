@@ -1,10 +1,10 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-13T07:23:44.702345+00:00",
+  "updated_at": "2026-10-13T08:22:29.795560+00:00",
   "status": "ok",
-  "count": 1599,
+  "count": 1600,
   "sources": {
-    "SportsPickLab": 25,
+    "SportsPickLab": 26,
     "NuroPicks": 1564,
     "Capper.win": 10
   },
@@ -107,6 +107,34 @@
       "league": "UEFA Champions League",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Queens Park Rangers FC vs Derby County FC: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-13T07:42:39.200Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "RB Leipzig vs PSV: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-13T07:42:38.371Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -368,20 +396,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-13T01:20:08.768Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Winnipeg Jets vs Minnesota Wild: Minnesota Wild -1.5",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-13T01:20:08.749Z",
       "event_at": "",
       "sport": "",
       "league": "",
