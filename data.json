@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-14T16:32:25.807733+00:00",
+  "updated_at": "2026-10-14T17:30:53.016284+00:00",
   "status": "ok",
-  "count": 1600,
+  "count": 1603,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1565,
-    "Capper.win": 8
+    "Capper.win": 11
   },
   "errors": {},
   "picks": [
@@ -111,6 +111,20 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/lask-linz-vs-liverpool-1776",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-14T16:45:00+00:00",
+      "event_at": "2026-10-14T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/feyenoord-vs-como-1775",
       "pick": "Over 2.5",
       "market": "total_goals",
@@ -120,6 +134,34 @@
       "sport": "football",
       "league": "UEFA Champions League",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/lask-linz-vs-liverpool-1776",
+      "pick": "Over 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-14T16:45:00+00:00",
+      "event_at": "2026-10-14T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/lask-linz-vs-liverpool-1776",
+      "pick": "Under 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-14T16:45:00+00:00",
+      "event_at": "2026-10-14T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "miss",
       "filter_score": 63
     },
     {
