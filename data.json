@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-15T04:28:59.783663+00:00",
+  "updated_at": "2026-10-15T05:28:08.365823+00:00",
   "status": "ok",
-  "count": 1634,
+  "count": 1637,
   "sources": {
     "SportsPickLab": 26,
     "NuroPicks": 1565,
-    "Capper.win": 43
+    "Capper.win": 46
   },
   "errors": {},
   "picks": [
@@ -335,6 +335,34 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/los-angeles-galaxy-vs-portland-timbers-1802",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-15T02:30:00+00:00",
+      "event_at": "2026-10-15T02:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/los-angeles-galaxy-vs-portland-timbers-1802",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-15T02:30:00+00:00",
+      "event_at": "2026-10-15T02:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/san-diego-vs-houston-dynamo-1803",
       "pick": "Over 1.5",
       "market": "total_goals",
@@ -400,6 +428,20 @@
       "sport": "football",
       "league": "Major League Soccer",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/los-angeles-galaxy-vs-portland-timbers-1802",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-15T02:30:00+00:00",
+      "event_at": "2026-10-15T02:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
       "filter_score": 63
     },
     {
