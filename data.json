@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-15T01:30:47.224552+00:00",
+  "updated_at": "2026-10-15T02:28:53.525381+00:00",
   "status": "ok",
-  "count": 1606,
+  "count": 1612,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1565,
-    "Capper.win": 11
+    "Capper.win": 17
   },
   "errors": {},
   "picks": [
@@ -133,7 +133,49 @@
       "event_at": "2026-10-15T00:30:00+00:00",
       "sport": "football",
       "league": "Major League Soccer",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/chicago-fire-vs-philadelphia-union-1796",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/chicago-fire-vs-philadelphia-union-1796",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/chicago-fire-vs-philadelphia-union-1796",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -162,6 +204,48 @@
       "sport": "football",
       "league": "Major League Soccer",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/st-louis-city-vs-vancouver-whitecaps-1797",
+      "pick": "Over 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/st-louis-city-vs-vancouver-whitecaps-1797",
+      "pick": "Under 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/fc-dallas-vs-seattle-sounders-1795",
+      "pick": "Over 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-15T00:30:00+00:00",
+      "event_at": "2026-10-15T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
       "filter_score": 63
     },
     {
