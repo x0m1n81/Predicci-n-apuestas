@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-15T00:36:01.298763+00:00",
+  "updated_at": "2026-10-15T01:30:47.224552+00:00",
   "status": "ok",
   "count": 1606,
   "sources": {
@@ -147,7 +147,7 @@
       "event_at": "2026-10-15T00:30:00+00:00",
       "sport": "football",
       "league": "Major League Soccer",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
