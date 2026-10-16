@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-16T07:36:59.102285+00:00",
+  "updated_at": "2026-10-16T08:31:16.230738+00:00",
   "status": "ok",
   "count": 1596,
   "sources": {
@@ -23,6 +23,34 @@
       "league": "Bundesliga",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Mito Hollyhock vs Urawa: Mito Hollyhock +0.25",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-16T08:30:15.517Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Cerezo Osaka vs Kawasaki Frontale: Kawasaki Frontale -0.25",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-16T08:30:15.446Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -326,34 +354,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-16T02:10:17.483Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Kashima vs V-varen Nagasaki: Home Win",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-16T02:10:17.473Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Cerezo Osaka vs Kawasaki Frontale: First Half: Over 0.5 Goals",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-16T02:10:17.460Z",
       "event_at": "",
       "sport": "",
       "league": "",
