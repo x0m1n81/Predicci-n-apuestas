@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-17T01:29:40.825941+00:00",
+  "updated_at": "2026-10-17T02:26:48.868237+00:00",
   "status": "ok",
-  "count": 1614,
+  "count": 1616,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 18
+    "Capper.win": 20
   },
   "errors": {},
   "picks": [
@@ -259,6 +259,34 @@
       "event_at": "2026-10-17T01:00:00+00:00",
       "sport": "football",
       "league": "Liga MX",
+      "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/boca-juniors-vs-talleres-cordoba-1838",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-17T00:30:00+00:00",
+      "event_at": "2026-10-17T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/boca-juniors-vs-talleres-cordoba-1838",
+      "pick": "Under 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-17T00:30:00+00:00",
+      "event_at": "2026-10-17T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
       "result": "pending",
       "filter_score": 63
     },
