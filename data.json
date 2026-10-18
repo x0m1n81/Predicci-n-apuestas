@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-18T12:29:01.796137+00:00",
+  "updated_at": "2026-10-18T13:28:08.251739+00:00",
   "status": "ok",
   "count": 1670,
   "sources": {
@@ -231,7 +231,7 @@
       "event_at": "2026-10-18T10:30:00+00:00",
       "sport": "football",
       "league": "Serie A",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
