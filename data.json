@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-18T10:24:06.595449+00:00",
+  "updated_at": "2026-10-18T11:23:33.862036+00:00",
   "status": "ok",
-  "count": 1654,
+  "count": 1656,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1566,
-    "Capper.win": 59
+    "Capper.win": 61
   },
   "errors": {},
   "picks": [
@@ -148,6 +148,34 @@
       "sport": "football",
       "league": "La Liga",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/kasimpasa-vs-samsunspor-1938",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "event_at": "2026-10-18T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/kasimpasa-vs-samsunspor-1938",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-18T10:30:00+00:00",
+      "event_at": "2026-10-18T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "hit",
       "filter_score": 63
     },
     {
