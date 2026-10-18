@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-18T21:23:06.099703+00:00",
+  "updated_at": "2026-10-18T22:22:45.849064+00:00",
   "status": "ok",
-  "count": 1899,
+  "count": 1898,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 303
+    "Capper.win": 302
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/bahia-vs-flamengo-1992",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-18T21:30:00+00:00",
+      "event_at": "2026-10-18T21:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/bahia-vs-flamengo-1992",
+      "pick": "Under 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-18T21:30:00+00:00",
+      "event_at": "2026-10-18T21:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
@@ -573,20 +601,6 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
-      "match": "https://capper.win/predictions/real-madrid-vs-sevilla-1989",
-      "pick": "Over 9.5",
-      "market": "corners",
-      "odds": null,
-      "published_at": "2026-10-18T19:00:00+00:00",
-      "event_at": "2026-10-18T19:00:00+00:00",
-      "sport": "football",
-      "league": "La Liga",
-      "result": "miss",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
-      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/burgos-vs-sabadell-1988",
       "pick": "Under 8.5",
       "market": "corners",
@@ -756,20 +770,6 @@
       "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/lyon-vs-nice-1985",
-      "pick": "Over 9.5",
-      "market": "corners",
-      "odds": null,
-      "published_at": "2026-10-18T18:45:00+00:00",
-      "event_at": "2026-10-18T18:45:00+00:00",
-      "sport": "football",
-      "league": "Ligue 1",
-      "result": "hit",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
-      "tipster": "Capper.win",
-      "match": "https://capper.win/predictions/lyon-vs-nice-1985",
       "pick": "Over 10.5",
       "market": "corners",
       "odds": null,
@@ -805,20 +805,6 @@
       "event_at": "2026-10-18T18:45:00+00:00",
       "sport": "football",
       "league": "Ligue 1",
-      "result": "hit",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
-      "tipster": "Capper.win",
-      "match": "https://capper.win/predictions/juventus-vs-lazio-1984",
-      "pick": "Away +1.5",
-      "market": "handicap",
-      "odds": null,
-      "published_at": "2026-10-18T18:45:00+00:00",
-      "event_at": "2026-10-18T18:45:00+00:00",
-      "sport": "football",
-      "league": "Serie A",
       "result": "hit",
       "filter_score": 63
     },
