@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-18T03:26:32.427792+00:00",
+  "updated_at": "2026-10-18T04:27:20.016047+00:00",
   "status": "ok",
   "count": 1638,
   "sources": {
@@ -175,7 +175,7 @@
       "event_at": "2026-10-18T03:10:00+00:00",
       "sport": "football",
       "league": "Liga MX",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
