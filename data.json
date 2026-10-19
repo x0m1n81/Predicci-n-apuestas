@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-19T02:29:24.804724+00:00",
+  "updated_at": "2026-10-19T03:30:13.933886+00:00",
   "status": "ok",
-  "count": 1596,
+  "count": 1598,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 0
+    "Capper.win": 2
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/monterrey-vs-cf-pachuca-1996",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-19T01:00:00+00:00",
+      "event_at": "2026-10-19T01:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "push",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/monterrey-vs-cf-pachuca-1996",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-19T01:00:00+00:00",
+      "event_at": "2026-10-19T01:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
