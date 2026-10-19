@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-19T21:28:14.002067+00:00",
+  "updated_at": "2026-10-19T22:27:47.144486+00:00",
   "status": "ok",
   "count": 1624,
   "sources": {
@@ -35,7 +35,7 @@
       "event_at": "2026-10-19T19:15:00+00:00",
       "sport": "football",
       "league": "Primeira Liga",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -49,7 +49,7 @@
       "event_at": "2026-10-19T19:15:00+00:00",
       "sport": "football",
       "league": "Primeira Liga",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
