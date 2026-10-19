@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-19T19:32:22.326862+00:00",
+  "updated_at": "2026-10-19T20:30:23.579138+00:00",
   "status": "ok",
-  "count": 1611,
+  "count": 1614,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 15
+    "Capper.win": 18
   },
   "errors": {},
   "picks": [
@@ -364,6 +364,20 @@
       "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/parma-vs-torino-2004",
+      "pick": "Over 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-19T18:45:00+00:00",
+      "event_at": "2026-10-19T18:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/parma-vs-torino-2004",
       "pick": "Over 1.5",
       "market": "total_goals",
       "odds": null,
@@ -372,6 +386,34 @@
       "sport": "football",
       "league": "Serie A",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/celta-de-vigo-ii-vs-tenerife-2003",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-19T18:30:00+00:00",
+      "event_at": "2026-10-19T18:30:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/celta-de-vigo-ii-vs-tenerife-2003",
+      "pick": "Over 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-19T18:30:00+00:00",
+      "event_at": "2026-10-19T18:30:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "pending",
       "filter_score": 63
     },
     {
