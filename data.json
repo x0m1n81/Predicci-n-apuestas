@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-20T17:39:48.300934+00:00",
+  "updated_at": "2026-10-20T18:32:23.330606+00:00",
   "status": "ok",
-  "count": 1600,
+  "count": 1602,
   "sources": {
     "SportsPickLab": 26,
     "NuroPicks": 1566,
-    "Capper.win": 8
+    "Capper.win": 10
   },
   "errors": {},
   "picks": [
@@ -149,6 +149,34 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sabah-fa-vs-borussia-dortmund-2012",
+      "pick": "Over 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-20T16:45:00+00:00",
+      "event_at": "2026-10-20T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sabah-fa-vs-borussia-dortmund-2012",
+      "pick": "Under 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-20T16:45:00+00:00",
+      "event_at": "2026-10-20T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "miss",
+      "filter_score": 63
     },
     {
       "source": "SportsPickLab",
