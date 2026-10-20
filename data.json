@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-20T09:31:40.179560+00:00",
+  "updated_at": "2026-10-20T10:28:41.880733+00:00",
   "status": "ok",
   "count": 1600,
   "sources": {
@@ -51,6 +51,20 @@
       "league": "UEFA Champions League",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Lille OSC vs Galatasaray SK: Over 2.5 Goals",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-20T10:02:41.736Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -326,20 +340,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-20T07:30:11.774Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "V-varen Nagasaki vs Sanfrecce Hiroshima: Sanfrecce Hiroshima -1",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-20T07:30:11.751Z",
       "event_at": "",
       "sport": "",
       "league": "",
