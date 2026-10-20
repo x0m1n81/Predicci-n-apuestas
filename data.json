@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-20T02:28:20.433037+00:00",
+  "updated_at": "2026-10-20T03:29:30.159023+00:00",
   "status": "ok",
-  "count": 1603,
+  "count": 1604,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 7
+    "Capper.win": 8
   },
   "errors": {},
   "picks": [
@@ -100,6 +100,20 @@
       "match": "https://capper.win/predictions/deportivo-riestra-vs-union-santa-fe-2010",
       "pick": "Over 8.5",
       "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-20T00:15:00+00:00",
+      "event_at": "2026-10-20T00:15:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/deportivo-riestra-vs-union-santa-fe-2010",
+      "pick": "Away",
+      "market": "match_winner",
       "odds": null,
       "published_at": "2026-10-20T00:15:00+00:00",
       "event_at": "2026-10-20T00:15:00+00:00",
