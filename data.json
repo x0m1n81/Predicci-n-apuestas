@@ -1,15 +1,29 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-21T19:32:02.025558+00:00",
+  "updated_at": "2026-10-21T20:28:09.916365+00:00",
   "status": "ok",
-  "count": 1611,
+  "count": 1615,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 15
+    "Capper.win": 19
   },
   "errors": {},
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Vitória SC vs CS Marítimo: First Half: Over 0.5 Goals",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-21T19:50:11.695Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
@@ -179,6 +193,62 @@
       "filter_score": 55
     },
     {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/real-betis-vs-feyenoord-2029",
+      "pick": "Over 0.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "event_at": "2026-10-21T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/sporting-cp-vs-lask-linz-2033",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "event_at": "2026-10-21T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sporting-cp-vs-lask-linz-2033",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "event_at": "2026-10-21T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sporting-cp-vs-lask-linz-2033",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T19:00:00+00:00",
+      "event_at": "2026-10-21T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
       "match": "Evento no indicado",
@@ -340,20 +410,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-21T18:30:15.907Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "VfB Stuttgart vs Borussia Mönchengladbach: Home Win",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-21T18:30:15.873Z",
       "event_at": "",
       "sport": "",
       "league": "",
