@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-21T01:34:43.546638+00:00",
+  "updated_at": "2026-10-21T02:29:42.145360+00:00",
   "status": "ok",
-  "count": 1593,
+  "count": 1595,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1566,
-    "Capper.win": 0
+    "Capper.win": 2
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/guadalajara-chivas-vs-necaxa-2021",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T00:07:00+00:00",
+      "event_at": "2026-10-21T00:07:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/guadalajara-chivas-vs-necaxa-2021",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T00:07:00+00:00",
+      "event_at": "2026-10-21T00:07:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
