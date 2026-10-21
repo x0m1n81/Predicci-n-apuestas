@@ -1,15 +1,29 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-21T04:31:10.259442+00:00",
+  "updated_at": "2026-10-21T05:30:00.576993+00:00",
   "status": "ok",
-  "count": 1595,
+  "count": 1596,
   "sources": {
     "SportsPickLab": 25,
     "NuroPicks": 1566,
-    "Capper.win": 4
+    "Capper.win": 5
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigres-uanl-vs-leon-2024",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T03:00:00+00:00",
+      "event_at": "2026-10-21T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
