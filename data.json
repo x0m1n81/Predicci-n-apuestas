@@ -1,15 +1,71 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-21T16:30:40.188560+00:00",
+  "updated_at": "2026-10-21T17:29:35.390500+00:00",
   "status": "ok",
-  "count": 1601,
+  "count": 1605,
   "sources": {
     "SportsPickLab": 30,
     "NuroPicks": 1566,
-    "Capper.win": 5
+    "Capper.win": 9
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/lille-vs-galatasaray-2026",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T16:45:00+00:00",
+      "event_at": "2026-10-21T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/lille-vs-galatasaray-2026",
+      "pick": "Over 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T16:45:00+00:00",
+      "event_at": "2026-10-21T16:45:00+00:00",
+      "sport": "football",
+      "league": "UEFA Champions League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/pk-35-vs-ff-jaro-2058",
+      "pick": "Over 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-21T15:30:00+00:00",
+      "event_at": "2026-10-21T15:30:00+00:00",
+      "sport": "football",
+      "league": "Veikkausliiga",
+      "result": "push",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/pk-35-vs-ff-jaro-2058",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-21T15:30:00+00:00",
+      "event_at": "2026-10-21T15:30:00+00:00",
+      "sport": "football",
+      "league": "Veikkausliiga",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
