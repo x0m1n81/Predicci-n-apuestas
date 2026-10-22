@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-22T01:33:47.853005+00:00",
+  "updated_at": "2026-10-22T02:31:01.762334+00:00",
   "status": "ok",
-  "count": 1594,
+  "count": 1596,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1566,
-    "Capper.win": 0
+    "Capper.win": 2
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/puebla-vs-monterrey-2036",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "event_at": "2026-10-22T01:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/atlas-vs-club-america-2035",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-22T01:00:00+00:00",
+      "event_at": "2026-10-22T01:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
