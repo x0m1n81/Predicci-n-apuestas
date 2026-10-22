@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-22T19:32:27.135656+00:00",
+  "updated_at": "2026-10-22T20:28:57.000845+00:00",
   "status": "ok",
-  "count": 1639,
+  "count": 1643,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1566,
-    "Capper.win": 44
+    "Capper.win": 48
   },
   "errors": {},
   "picks": [
@@ -223,6 +223,20 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/plzen-vs-levski-sofia-2057",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "event_at": "2026-10-22T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Europa League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/besiktas-vs-crystal-palace-2048",
       "pick": "Over 1.5",
       "market": "total_goals",
@@ -231,7 +245,21 @@
       "event_at": "2026-10-22T19:00:00+00:00",
       "sport": "football",
       "league": "UEFA Europa League",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/lillestrom-vs-real-sociedad-2054",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "event_at": "2026-10-22T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Europa League",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -259,7 +287,35 @@
       "event_at": "2026-10-22T19:00:00+00:00",
       "sport": "football",
       "league": "UEFA Europa League",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/olympiakos-piraeus-vs-sparta-praha-2055",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "event_at": "2026-10-22T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Europa League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/1899-hoffenheim-vs-lyon-2052",
+      "pick": "Over 10",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-22T19:00:00+00:00",
+      "event_at": "2026-10-22T19:00:00+00:00",
+      "sport": "football",
+      "league": "UEFA Europa League",
+      "result": "hit",
       "filter_score": 63
     },
     {
