@@ -1,15 +1,29 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-22T22:27:38.369593+00:00",
+  "updated_at": "2026-10-22T23:27:40.285441+00:00",
   "status": "ok",
-  "count": 1674,
+  "count": 1673,
   "sources": {
-    "SportsPickLab": 29,
+    "SportsPickLab": 28,
     "NuroPicks": 1567,
     "Capper.win": 78
   },
   "errors": {},
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Pittsburgh Penguins vs Florida Panthers: Florida Panthers ML",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-22T22:40:15.509Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "NuroPicks",
       "tipster": "ai",
@@ -844,34 +858,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-22T18:50:11.731Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Alverca vs FC Arouca: First Half: Over 0.5 Goals",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-22T17:00:14.468Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Alverca vs FC Arouca: FC Alverca -0.25",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-22T17:00:14.376Z",
       "event_at": "",
       "sport": "",
       "league": "",
