@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-23T07:40:51.204431+00:00",
+  "updated_at": "2026-10-23T08:32:44.169915+00:00",
   "status": "ok",
   "count": 1600,
   "sources": {
@@ -51,6 +51,34 @@
       "league": "Süper Lig",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Aston Villa FC vs Manchester City FC: Away Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-23T08:10:15.411Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Sanfrecce Hiroshima vs Shimizu S-pulse: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-23T08:10:15.031Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -368,34 +396,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-23T01:50:22.874Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Anyang vs Jeonbuk Motors: FC Anyang +0.5",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-23T01:50:22.860Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Anyang vs Jeonbuk Motors: Under 2.5",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-23T01:50:22.853Z",
       "event_at": "",
       "sport": "",
       "league": "",
