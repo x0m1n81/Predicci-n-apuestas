@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-23T11:30:35.934923+00:00",
+  "updated_at": "2026-10-23T12:33:25.211918+00:00",
   "status": "ok",
   "count": 1600,
   "sources": {
@@ -181,8 +181,8 @@
     {
       "source": "Capper.win",
       "tipster": "True",
-      "match": "https://capper.win/predictions/polessya-vs-obolon-brovar-2088",
-      "pick": "Over 2.5",
+      "match": "https://capper.win/predictions/dynamo-kyiv-vs-kudrivka-2087",
+      "pick": "Over 3.5",
       "market": "total_goals",
       "odds": null,
       "published_at": "2026-10-23T10:00:00+00:00",
