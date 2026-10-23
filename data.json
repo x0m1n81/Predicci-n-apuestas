@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-23T22:27:50.340214+00:00",
+  "updated_at": "2026-10-23T23:25:11.201116+00:00",
   "status": "ok",
-  "count": 1679,
+  "count": 1682,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1567,
-    "Capper.win": 83
+    "Capper.win": 86
   },
   "errors": {},
   "picks": [
@@ -21,7 +21,49 @@
       "event_at": "2026-10-23T21:30:00+00:00",
       "sport": "football",
       "league": "Liga Profesional Argentina",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gimnasia-m-vs-platense-2075",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-23T21:30:00+00:00",
+      "event_at": "2026-10-23T21:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gimnasia-m-vs-platense-2075",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-23T21:30:00+00:00",
+      "event_at": "2026-10-23T21:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gimnasia-lp-vs-sarmiento-junin-2076",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-23T21:00:00+00:00",
+      "event_at": "2026-10-23T21:00:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
       "filter_score": 63
     },
     {
