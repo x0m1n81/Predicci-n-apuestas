@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-24T04:27:30.614657+00:00",
+  "updated_at": "2026-10-24T05:26:07.090535+00:00",
   "status": "ok",
-  "count": 1623,
+  "count": 1626,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1567,
-    "Capper.win": 28
+    "Capper.win": 31
   },
   "errors": {},
   "picks": [
@@ -653,6 +653,48 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/atlante-fc-vs-atletico-san-luis-2092",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T03:00:00+00:00",
+      "event_at": "2026-10-24T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/atlante-fc-vs-atletico-san-luis-2092",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-24T03:00:00+00:00",
+      "event_at": "2026-10-24T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/atlante-fc-vs-atletico-san-luis-2092",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-24T03:00:00+00:00",
+      "event_at": "2026-10-24T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
     },
     {
       "source": "Capper.win",
