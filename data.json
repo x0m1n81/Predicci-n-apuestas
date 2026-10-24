@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-24T11:24:34.730602+00:00",
+  "updated_at": "2026-10-24T12:30:24.753429+00:00",
   "status": "ok",
-  "count": 1626,
+  "count": 1632,
   "sources": {
     "SportsPickLab": 28,
     "NuroPicks": 1567,
-    "Capper.win": 31
+    "Capper.win": 37
   },
   "errors": {},
   "picks": [
@@ -273,7 +273,7 @@
       "event_at": "2026-10-24T12:00:00+00:00",
       "sport": "football",
       "league": "Ligue 2",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -315,7 +315,91 @@
       "event_at": "2026-10-24T11:00:00+00:00",
       "sport": "football",
       "league": "2. Bundesliga",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/1-fc-magdeburg-vs-karlsruher-sc-2097",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T11:00:00+00:00",
+      "event_at": "2026-10-24T11:00:00+00:00",
+      "sport": "football",
+      "league": "2. Bundesliga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/eyupspor-vs-kasimpasa-2094",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T10:30:00+00:00",
+      "event_at": "2026-10-24T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/eyupspor-vs-kasimpasa-2094",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-24T10:30:00+00:00",
+      "event_at": "2026-10-24T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/eyupspor-vs-kasimpasa-2094",
+      "pick": "Home/Draw",
+      "market": "double_chance",
+      "odds": null,
+      "published_at": "2026-10-24T10:30:00+00:00",
+      "event_at": "2026-10-24T10:30:00+00:00",
+      "sport": "football",
+      "league": "Süper Lig",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/piast-gliwice-vs-cracovia-krakow-2093",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T10:15:00+00:00",
+      "event_at": "2026-10-24T10:15:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/piast-gliwice-vs-cracovia-krakow-2093",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-24T10:15:00+00:00",
+      "event_at": "2026-10-24T10:15:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
+      "result": "hit",
       "filter_score": 63
     },
     {
