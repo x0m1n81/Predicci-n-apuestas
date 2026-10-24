@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-24T01:38:41.449847+00:00",
+  "updated_at": "2026-10-24T02:28:19.408516+00:00",
   "status": "ok",
-  "count": 1619,
+  "count": 1621,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1567,
-    "Capper.win": 23
+    "Capper.win": 25
   },
   "errors": {},
   "picks": [
@@ -443,6 +443,34 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigre-vs-atletico-tucuman-2090",
+      "pick": "Over 1.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T00:15:00+00:00",
+      "event_at": "2026-10-24T00:15:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/tigre-vs-atletico-tucuman-2090",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-24T00:15:00+00:00",
+      "event_at": "2026-10-24T00:15:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
     },
     {
       "source": "SportsPickLab",
