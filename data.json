@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-24T03:28:05.907178+00:00",
+  "updated_at": "2026-10-24T04:27:30.614657+00:00",
   "status": "ok",
   "count": 1623,
   "sources": {
@@ -735,7 +735,7 @@
       "event_at": "",
       "sport": "mlb",
       "league": "",
-      "result": "pending",
+      "result": "loss",
       "filter_score": 81
     },
     {
