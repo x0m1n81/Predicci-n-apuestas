@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-24T22:23:20.882115+00:00",
+  "updated_at": "2026-10-24T23:21:33.238165+00:00",
   "status": "ok",
-  "count": 1934,
+  "count": 1935,
   "sources": {
     "SportsPickLab": 26,
     "NuroPicks": 1569,
-    "Capper.win": 339
+    "Capper.win": 340
   },
   "errors": {},
   "picks": [
@@ -50,6 +50,20 @@
       "sport": "football",
       "league": "Liga Profesional Argentina",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/vasco-da-gama-vs-corinthians-2201",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-24T21:30:00+00:00",
+      "event_at": "2026-10-24T21:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -287,7 +301,7 @@
       "event_at": "2026-10-24T19:30:00+00:00",
       "sport": "football",
       "league": "Serie A",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -301,7 +315,7 @@
       "event_at": "2026-10-24T19:30:00+00:00",
       "sport": "football",
       "league": "Major League Soccer",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
