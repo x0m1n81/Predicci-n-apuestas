@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-25T18:27:06.094887+00:00",
+  "updated_at": "2026-10-25T19:24:17.262270+00:00",
   "status": "ok",
-  "count": 1876,
+  "count": 1892,
   "sources": {
     "SportsPickLab": 25,
     "NuroPicks": 1570,
-    "Capper.win": 281
+    "Capper.win": 297
   },
   "errors": {},
   "picks": [
@@ -22,6 +22,20 @@
       "sport": "football",
       "league": "La Liga",
       "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/molde-vs-fredrikstad-2289",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T18:15:00+00:00",
+      "event_at": "2026-10-25T18:15:00+00:00",
+      "sport": "football",
+      "league": "Eliteserien",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -119,7 +133,21 @@
       "event_at": "2026-10-25T17:30:00+00:00",
       "sport": "football",
       "league": "Jupiler Pro League",
-      "result": "pending",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/gent-vs-anderlecht-2281",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Jupiler Pro League",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -151,6 +179,118 @@
       "filter_score": 63
     },
     {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/real-sociedad-vs-levante-2283",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/real-sociedad-vs-levante-2283",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/castellon-vs-sporting-gijon-2282",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Segunda División",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/real-sociedad-vs-levante-2283",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gent-vs-anderlecht-2281",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Jupiler Pro League",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gent-vs-anderlecht-2281",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Jupiler Pro League",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gent-vs-anderlecht-2281",
+      "pick": "Draw/Away",
+      "market": "double_chance",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Jupiler Pro League",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gent-vs-anderlecht-2281",
+      "pick": "Away 0",
+      "market": "handicap",
+      "odds": null,
+      "published_at": "2026-10-25T17:30:00+00:00",
+      "event_at": "2026-10-25T17:30:00+00:00",
+      "sport": "football",
+      "league": "Jupiler Pro League",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
       "match": "Evento no indicado",
@@ -177,6 +317,76 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/aarhus-vs-viborg-2278",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "event_at": "2026-10-25T17:00:00+00:00",
+      "sport": "football",
+      "league": "Superliga",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/lecce-vs-juventus-2279",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "event_at": "2026-10-25T17:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/lecce-vs-juventus-2279",
+      "pick": "Under 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "event_at": "2026-10-25T17:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/lecce-vs-juventus-2279",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "event_at": "2026-10-25T17:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/aarhus-vs-viborg-2278",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-25T17:00:00+00:00",
+      "event_at": "2026-10-25T17:00:00+00:00",
+      "sport": "football",
+      "league": "Superliga",
+      "result": "miss",
+      "filter_score": 63
     },
     {
       "source": "Capper.win",
@@ -245,7 +455,7 @@
       "event_at": "2026-10-25T16:30:00+00:00",
       "sport": "football",
       "league": "Premier League",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -288,6 +498,20 @@
       "sport": "football",
       "league": "Premier League",
       "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/legia-warszawa-vs-lech-poznan-2275",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-25T16:30:00+00:00",
+      "event_at": "2026-10-25T16:30:00+00:00",
+      "sport": "football",
+      "league": "Ekstraklasa",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -441,7 +665,7 @@
       "event_at": "2026-10-25T16:15:00+00:00",
       "sport": "football",
       "league": "Ligue 1",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
@@ -455,7 +679,7 @@
       "event_at": "2026-10-25T16:15:00+00:00",
       "sport": "football",
       "league": "Ligue 1",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
@@ -469,7 +693,7 @@
       "event_at": "2026-10-25T16:15:00+00:00",
       "sport": "football",
       "league": "Ligue 1",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
@@ -497,7 +721,7 @@
       "event_at": "2026-10-25T16:15:00+00:00",
       "sport": "football",
       "league": "Ligue 1",
-      "result": "pending",
+      "result": "hit",
       "filter_score": 63
     },
     {
