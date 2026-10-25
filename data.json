@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-25T01:30:11.984310+00:00",
+  "updated_at": "2026-10-25T02:28:27.867396+00:00",
   "status": "ok",
-  "count": 1616,
+  "count": 1620,
   "sources": {
     "SportsPickLab": 26,
     "NuroPicks": 1569,
-    "Capper.win": 21
+    "Capper.win": 25
   },
   "errors": {},
   "picks": [
@@ -306,10 +306,66 @@
     },
     {
       "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/rosario-central-vs-huracan-2217",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T00:30:00+00:00",
+      "event_at": "2026-10-25T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/rosario-central-vs-huracan-2217",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-25T00:30:00+00:00",
+      "event_at": "2026-10-25T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/santos-vs-bahia-2210",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "event_at": "2026-10-25T00:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
       "tipster": "True",
       "match": "https://capper.win/predictions/santos-vs-bahia-2210",
       "pick": "Over 10.5",
       "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-25T00:00:00+00:00",
+      "event_at": "2026-10-25T00:00:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/santos-vs-bahia-2210",
+      "pick": "Draw",
+      "market": "match_winner",
       "odds": null,
       "published_at": "2026-10-25T00:00:00+00:00",
       "event_at": "2026-10-25T00:00:00+00:00",
