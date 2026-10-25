@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-25T00:32:35.743141+00:00",
+  "updated_at": "2026-10-25T01:30:11.984310+00:00",
   "status": "ok",
   "count": 1616,
   "sources": {
@@ -289,6 +289,20 @@
       "league": "Eredivisie",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Utah Jazz vs Los Angeles Lakers: Los Angeles Lakers ML",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-25T01:20:16.810Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "Capper.win",
@@ -592,20 +606,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-24T15:50:19.309Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Chicago Blackhawks vs Florida Panthers: Florida Panthers ML",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-24T15:50:19.302Z",
       "event_at": "",
       "sport": "",
       "league": "",
