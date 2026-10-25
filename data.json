@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-25T22:21:43.793484+00:00",
+  "updated_at": "2026-10-25T23:21:34.207823+00:00",
   "status": "ok",
-  "count": 1928,
+  "count": 1930,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1570,
-    "Capper.win": 331
+    "Capper.win": 333
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/sporting-cp-vs-academico-viseu-2296",
+      "pick": "Over 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T20:30:00+00:00",
+      "event_at": "2026-10-25T20:30:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sporting-cp-vs-academico-viseu-2296",
+      "pick": "Under 3.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-25T20:30:00+00:00",
+      "event_at": "2026-10-25T20:30:00+00:00",
+      "sport": "football",
+      "league": "Primeira Liga",
+      "result": "hit",
+      "filter_score": 63
+    },
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
