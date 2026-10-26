@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-26T11:39:07.328538+00:00",
+  "updated_at": "2026-10-26T14:42:57.738422+00:00",
   "status": "ok",
   "count": 1616,
   "sources": {
@@ -23,6 +23,20 @@
       "league": "La Liga",
       "result": "pending",
       "filter_score": 63
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "CD Santa Clara vs Sport Lisboa e Benfica: Away Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-26T12:10:14.057Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
     },
     {
       "source": "SportsPickLab",
@@ -284,20 +298,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-26T05:50:10.336Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Oklahoma City Thunder vs Phoenix Suns: Oklahoma City Thunder ML",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-26T05:50:10.325Z",
       "event_at": "",
       "sport": "",
       "league": "",
