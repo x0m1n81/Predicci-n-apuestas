@@ -1,15 +1,29 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-26T22:31:17.542537+00:00",
+  "updated_at": "2026-10-26T23:27:20.120391+00:00",
   "status": "ok",
-  "count": 1663,
+  "count": 1664,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1570,
-    "Capper.win": 64
+    "Capper.win": 65
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/union-santa-fe-vs-estudiantes-lp-2331",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-26T22:00:00+00:00",
+      "event_at": "2026-10-26T22:00:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "hit",
+      "filter_score": 63
+    },
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
