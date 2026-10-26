@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-26T21:31:15.781078+00:00",
+  "updated_at": "2026-10-26T22:31:17.542537+00:00",
   "status": "ok",
-  "count": 1657,
+  "count": 1663,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1570,
-    "Capper.win": 58
+    "Capper.win": 64
   },
   "errors": {},
   "picks": [
@@ -21,7 +21,49 @@
       "event_at": "2026-10-26T20:00:00+00:00",
       "sport": "football",
       "league": "La Liga",
-      "result": "pending",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sevilla-vs-osasuna-2330",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-26T20:00:00+00:00",
+      "event_at": "2026-10-26T20:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sevilla-vs-osasuna-2330",
+      "pick": "Under 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-26T20:00:00+00:00",
+      "event_at": "2026-10-26T20:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/sevilla-vs-osasuna-2330",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-26T20:00:00+00:00",
+      "event_at": "2026-10-26T20:00:00+00:00",
+      "sport": "football",
+      "league": "La Liga",
+      "result": "hit",
       "filter_score": 63
     },
     {
@@ -162,6 +204,48 @@
       "sport": "football",
       "league": "Ligue 2",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/boulogne-vs-reims-2329",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-26T19:45:00+00:00",
+      "event_at": "2026-10-26T19:45:00+00:00",
+      "sport": "football",
+      "league": "Ligue 2",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/montpellier-vs-red-star-fc-93-2104",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-26T19:45:00+00:00",
+      "event_at": "2026-10-26T19:45:00+00:00",
+      "sport": "football",
+      "league": "Ligue 2",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/boulogne-vs-reims-2329",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-26T19:45:00+00:00",
+      "event_at": "2026-10-26T19:45:00+00:00",
+      "sport": "football",
+      "league": "Ligue 2",
+      "result": "miss",
       "filter_score": 63
     },
     {
