@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-27T21:31:44.563705+00:00",
+  "updated_at": "2026-10-27T22:34:09.160529+00:00",
   "status": "ok",
-  "count": 1644,
+  "count": 1650,
   "sources": {
     "SportsPickLab": 25,
     "NuroPicks": 1570,
-    "Capper.win": 49
+    "Capper.win": 55
   },
   "errors": {},
   "picks": [
@@ -139,6 +139,34 @@
     {
       "source": "Capper.win",
       "tipster": "True",
+      "match": "https://capper.win/predictions/torino-vs-como-2387",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/torino-vs-como-2387",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
       "match": "https://capper.win/predictions/as-roma-vs-cagliari-2386",
       "pick": "Over 9.5",
       "market": "corners",
@@ -162,6 +190,62 @@
       "sport": "football",
       "league": "Serie A",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/as-roma-vs-cagliari-2386",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/as-roma-vs-cagliari-2386",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/torino-vs-como-2387",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/as-roma-vs-cagliari-2386",
+      "pick": "Away +1.5",
+      "market": "handicap",
+      "odds": null,
+      "published_at": "2026-10-27T19:45:00+00:00",
+      "event_at": "2026-10-27T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
       "filter_score": 63
     },
     {
