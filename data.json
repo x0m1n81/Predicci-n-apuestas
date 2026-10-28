@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-28T13:55:32.303537+00:00",
+  "updated_at": "2026-10-28T14:51:31.509340+00:00",
   "status": "ok",
   "count": 1596,
   "sources": {
@@ -10,6 +10,20 @@
   },
   "errors": {},
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Parma Calcio 1913 vs Udinese Calcio: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-10-28T14:50:07.046Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "NuroPicks",
       "tipster": "ai",
@@ -284,20 +298,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-10-28T05:20:10.411Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Utah Jazz vs San Antonio Spurs: San Antonio Spurs ML",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-28T05:20:10.395Z",
       "event_at": "",
       "sport": "",
       "league": "",
