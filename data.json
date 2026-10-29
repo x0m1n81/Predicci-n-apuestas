@@ -1,15 +1,57 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-29T00:46:46.921368+00:00",
+  "updated_at": "2026-10-29T01:53:26.447719+00:00",
   "status": "ok",
-  "count": 1598,
+  "count": 1601,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1571,
-    "Capper.win": 0
+    "Capper.win": 3
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/bahia-vs-sao-paulo-3319",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-29T00:30:00+00:00",
+      "event_at": "2026-10-29T00:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/bahia-vs-sao-paulo-3319",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-29T00:30:00+00:00",
+      "event_at": "2026-10-29T00:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/austin-vs-real-salt-lake-3317",
+      "pick": "Under 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-29T00:30:00+00:00",
+      "event_at": "2026-10-29T00:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
