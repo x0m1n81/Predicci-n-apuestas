@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-29T20:40:01.268655+00:00",
+  "updated_at": "2026-10-29T21:37:42.192025+00:00",
   "status": "ok",
-  "count": 1656,
+  "count": 1659,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1571,
-    "Capper.win": 56
+    "Capper.win": 59
   },
   "errors": {},
   "picks": [
@@ -345,6 +345,48 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/fiorentina-vs-atalanta-3331",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-29T19:45:00+00:00",
+      "event_at": "2026-10-29T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/fiorentina-vs-atalanta-3331",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-29T19:45:00+00:00",
+      "event_at": "2026-10-29T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/fiorentina-vs-atalanta-3331",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-29T19:45:00+00:00",
+      "event_at": "2026-10-29T19:45:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
     },
     {
       "source": "Capper.win",
