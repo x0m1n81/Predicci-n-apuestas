@@ -1,21 +1,49 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-29T04:44:09.271450+00:00",
+  "updated_at": "2026-10-29T05:41:22.358038+00:00",
   "status": "ok",
-  "count": 1638,
+  "count": 1637,
   "sources": {
     "SportsPickLab": 27,
     "NuroPicks": 1571,
-    "Capper.win": 40
+    "Capper.win": 39
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/club-america-vs-club-tijuana-3324",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-29T03:00:00+00:00",
+      "event_at": "2026-10-29T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
     {
       "source": "Capper.win",
       "tipster": "True",
       "match": "https://capper.win/predictions/club-america-vs-club-tijuana-3324",
       "pick": "Over 10.5",
       "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-29T03:00:00+00:00",
+      "event_at": "2026-10-29T03:00:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/club-america-vs-club-tijuana-3324",
+      "pick": "Away +1",
+      "market": "handicap",
       "odds": null,
       "published_at": "2026-10-29T03:00:00+00:00",
       "event_at": "2026-10-29T03:00:00+00:00",
@@ -474,20 +502,6 @@
     },
     {
       "source": "Capper.win",
-      "tipster": "True",
-      "match": "https://capper.win/predictions/fc-dallas-vs-columbus-crew-3314",
-      "pick": "Away",
-      "market": "match_winner",
-      "odds": null,
-      "published_at": "2026-10-29T00:30:00+00:00",
-      "event_at": "2026-10-29T00:30:00+00:00",
-      "sport": "football",
-      "league": "Major League Soccer",
-      "result": "hit",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/st-louis-city-vs-portland-timbers-3318",
       "pick": "Home",
@@ -502,20 +516,6 @@
     },
     {
       "source": "Capper.win",
-      "tipster": "True",
-      "match": "https://capper.win/predictions/st-louis-city-vs-portland-timbers-3318",
-      "pick": "Away",
-      "market": "match_winner",
-      "odds": null,
-      "published_at": "2026-10-29T00:30:00+00:00",
-      "event_at": "2026-10-29T00:30:00+00:00",
-      "sport": "football",
-      "league": "Major League Soccer",
-      "result": "hit",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/austin-vs-real-salt-lake-3317",
       "pick": "Draw",
@@ -526,20 +526,6 @@
       "sport": "football",
       "league": "Major League Soccer",
       "result": "miss",
-      "filter_score": 63
-    },
-    {
-      "source": "Capper.win",
-      "tipster": "True",
-      "match": "https://capper.win/predictions/austin-vs-real-salt-lake-3317",
-      "pick": "Away",
-      "market": "match_winner",
-      "odds": null,
-      "published_at": "2026-10-29T00:30:00+00:00",
-      "event_at": "2026-10-29T00:30:00+00:00",
-      "sport": "football",
-      "league": "Major League Soccer",
-      "result": "hit",
       "filter_score": 63
     },
     {
