@@ -1,15 +1,43 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-30T22:36:49.857041+00:00",
+  "updated_at": "2026-10-30T23:31:57.425255+00:00",
   "status": "ok",
-  "count": 1677,
+  "count": 1679,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1571,
-    "Capper.win": 77
+    "Capper.win": 79
   },
   "errors": {},
   "picks": [
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/estudiantes-de-rio-cuarto-vs-gimnasia-lp-3378",
+      "pick": "Over 2",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-30T22:00:00+00:00",
+      "event_at": "2026-10-30T22:00:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/huracan-vs-tigre-3379",
+      "pick": "Over 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-30T22:00:00+00:00",
+      "event_at": "2026-10-30T22:00:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "hit",
+      "filter_score": 63
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
@@ -119,7 +147,7 @@
       "event_at": "2026-10-30T20:15:00+00:00",
       "sport": "football",
       "league": "Primeira Liga",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
