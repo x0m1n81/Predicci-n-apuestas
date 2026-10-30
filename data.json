@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-10-30T01:54:06.562948+00:00",
+  "updated_at": "2026-10-30T02:45:22.727326+00:00",
   "status": "ok",
-  "count": 1596,
+  "count": 1599,
   "sources": {
     "SportsPickLab": 25,
     "NuroPicks": 1571,
-    "Capper.win": 0
+    "Capper.win": 3
   },
   "errors": {},
   "picks": [
@@ -275,6 +275,48 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gremio-vs-atletico-paranaense-3357",
+      "pick": "Over 2.5",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-10-30T00:30:00+00:00",
+      "event_at": "2026-10-30T00:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/gremio-vs-atletico-paranaense-3357",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-10-30T00:30:00+00:00",
+      "event_at": "2026-10-30T00:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/gremio-vs-atletico-paranaense-3357",
+      "pick": "Away",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-10-30T00:30:00+00:00",
+      "event_at": "2026-10-30T00:30:00+00:00",
+      "sport": "football",
+      "league": "Serie A",
+      "result": "miss",
+      "filter_score": 63
     },
     {
       "source": "SportsPickLab",
