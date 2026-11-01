@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-01T10:36:19.517026+00:00",
+  "updated_at": "2026-11-01T11:30:20.622609+00:00",
   "status": "ok",
   "count": 1596,
   "sources": {
@@ -12,6 +12,34 @@
     "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=handicap"
   },
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Telstar 1963 vs Utrecht: Away Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-01T10:40:18.588Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Telstar 1963 vs Utrecht: Over 2.5 Goals",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-01T10:40:18.559Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
@@ -258,34 +286,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-11-01T01:52:28.303Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Arouca vs CD Nacional: Home Win",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-11-01T01:10:12.593Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "FC Anyang vs Bucheon FC 1995: Home Win",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-11-01T01:10:11.450Z",
       "event_at": "",
       "sport": "",
       "league": "",
