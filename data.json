@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-01T02:47:40.157466+00:00",
+  "updated_at": "2026-11-01T03:47:31.891654+00:00",
   "status": "ok",
-  "count": 1607,
+  "count": 1614,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1571,
-    "Capper.win": 7
+    "Capper.win": 14
   },
   "errors": {},
   "picks": [
@@ -23,6 +23,62 @@
       "league": "",
       "result": "",
       "filter_score": 55
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/colorado-rapids-vs-chicago-fire-3519",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-11-01T01:30:00+00:00",
+      "event_at": "2026-11-01T01:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/colorado-rapids-vs-chicago-fire-3519",
+      "pick": "Over 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-11-01T01:30:00+00:00",
+      "event_at": "2026-11-01T01:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/colorado-rapids-vs-chicago-fire-3519",
+      "pick": "Over 9.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-11-01T01:30:00+00:00",
+      "event_at": "2026-11-01T01:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/colorado-rapids-vs-chicago-fire-3519",
+      "pick": "Draw",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-11-01T01:30:00+00:00",
+      "event_at": "2026-11-01T01:30:00+00:00",
+      "sport": "football",
+      "league": "Major League Soccer",
+      "result": "miss",
+      "filter_score": 63
     },
     {
       "source": "SportsPickLab",
@@ -68,6 +124,34 @@
     },
     {
       "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/guadalajara-chivas-vs-atlante-fc-3518",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-11-01T01:07:00+00:00",
+      "event_at": "2026-11-01T01:07:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/guadalajara-chivas-vs-atlante-fc-3518",
+      "pick": "Home -1.5",
+      "market": "handicap",
+      "odds": null,
+      "published_at": "2026-11-01T01:07:00+00:00",
+      "event_at": "2026-11-01T01:07:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/monterrey-vs-club-tijuana-3517",
       "pick": "Over 2.5",
@@ -96,6 +180,20 @@
     },
     {
       "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/monterrey-vs-club-tijuana-3517",
+      "pick": "Over 10.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-11-01T01:05:00+00:00",
+      "event_at": "2026-11-01T01:05:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
       "tipster": "Capper.win",
       "match": "https://capper.win/predictions/estudiantes-lp-vs-instituto-cordoba-3516",
       "pick": "Over 2",
@@ -119,7 +217,7 @@
       "event_at": "2026-11-01T00:30:00+00:00",
       "sport": "football",
       "league": "Liga Profesional Argentina",
-      "result": "pending",
+      "result": "miss",
       "filter_score": 63
     },
     {
