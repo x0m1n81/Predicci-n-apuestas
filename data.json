@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-01T06:50:47.394487+00:00",
+  "updated_at": "2026-11-01T07:54:38.718568+00:00",
   "status": "ok",
   "count": 1596,
   "sources": {
@@ -12,6 +12,20 @@
     "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-01&tz=UTC&market=handicap"
   },
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Frosinone Calcio vs Torino FC: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-01T07:30:19.912Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
@@ -272,20 +286,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-11-01T01:10:11.450Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "Gil Vicente FC vs Vitória SC: First Half: Over 0.5 Goals",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-10-31T20:20:15.137Z",
       "event_at": "",
       "sport": "",
       "league": "",
