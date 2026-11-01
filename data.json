@@ -1,12 +1,12 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-01T01:57:05.493761+00:00",
+  "updated_at": "2026-11-01T02:47:40.157466+00:00",
   "status": "ok",
-  "count": 1603,
+  "count": 1607,
   "sources": {
     "SportsPickLab": 29,
     "NuroPicks": 1571,
-    "Capper.win": 3
+    "Capper.win": 7
   },
   "errors": {},
   "picks": [
@@ -55,6 +55,20 @@
     {
       "source": "Capper.win",
       "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/guadalajara-chivas-vs-atlante-fc-3518",
+      "pick": "Under 3",
+      "market": "total_goals",
+      "odds": null,
+      "published_at": "2026-11-01T01:07:00+00:00",
+      "event_at": "2026-11-01T01:07:00+00:00",
+      "sport": "football",
+      "league": "Liga MX",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
       "match": "https://capper.win/predictions/monterrey-vs-club-tijuana-3517",
       "pick": "Over 2.5",
       "market": "total_goals",
@@ -92,6 +106,48 @@
       "sport": "football",
       "league": "Liga Profesional Argentina",
       "result": "hit",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "True",
+      "match": "https://capper.win/predictions/estudiantes-lp-vs-instituto-cordoba-3516",
+      "pick": "Over 8.5",
+      "market": "corners",
+      "odds": null,
+      "published_at": "2026-11-01T00:30:00+00:00",
+      "event_at": "2026-11-01T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "pending",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/estudiantes-lp-vs-instituto-cordoba-3516",
+      "pick": "Home",
+      "market": "match_winner",
+      "odds": null,
+      "published_at": "2026-11-01T00:30:00+00:00",
+      "event_at": "2026-11-01T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
+      "filter_score": 63
+    },
+    {
+      "source": "Capper.win",
+      "tipster": "Capper.win",
+      "match": "https://capper.win/predictions/estudiantes-lp-vs-instituto-cordoba-3516",
+      "pick": "Home -0.5",
+      "market": "handicap",
+      "odds": null,
+      "published_at": "2026-11-01T00:30:00+00:00",
+      "event_at": "2026-11-01T00:30:00+00:00",
+      "sport": "football",
+      "league": "Liga Profesional Argentina",
+      "result": "miss",
       "filter_score": 63
     },
     {
