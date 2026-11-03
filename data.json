@@ -1,10 +1,10 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-03T18:20:45.352386+00:00",
+  "updated_at": "2026-11-03T23:56:32.062929+00:00",
   "status": "ok",
-  "count": 1597,
+  "count": 1598,
   "sources": {
-    "SportsPickLab": 26,
+    "SportsPickLab": 27,
     "NuroPicks": 1571,
     "Capper.win": 0
   },
@@ -12,6 +12,48 @@
     "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-03&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-03&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-03&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-03&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-03&tz=UTC&market=handicap"
   },
   "picks": [
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Viking FK vs Sabah FK: Home Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-03T22:40:10.590Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Club Atlético de Madrid vs FC Bayern München: FC Bayern München -0.5",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-03T19:30:08.453Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
+    {
+      "source": "SportsPickLab",
+      "tipster": "SportsPickLab",
+      "match": "Evento no indicado",
+      "pick": "Club Atlético de Madrid vs FC Bayern München: Away Win",
+      "market": "",
+      "odds": null,
+      "published_at": "2026-11-03T19:30:08.426Z",
+      "event_at": "",
+      "sport": "",
+      "league": "",
+      "result": "",
+      "filter_score": 55
+    },
     {
       "source": "SportsPickLab",
       "tipster": "SportsPickLab",
@@ -272,34 +314,6 @@
       "market": "",
       "odds": null,
       "published_at": "2026-11-03T03:40:09.646Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "New Jersey Devils vs Edmonton Oilers: New Jersey Devils -1.5",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-11-03T03:40:09.623Z",
-      "event_at": "",
-      "sport": "",
-      "league": "",
-      "result": "",
-      "filter_score": 55
-    },
-    {
-      "source": "SportsPickLab",
-      "tipster": "SportsPickLab",
-      "match": "Evento no indicado",
-      "pick": "New Jersey Devils vs Edmonton Oilers: Under 6",
-      "market": "",
-      "odds": null,
-      "published_at": "2026-11-03T03:40:09.613Z",
       "event_at": "",
       "sport": "",
       "league": "",
