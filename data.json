@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-13T07:45:08.145029+00:00",
+  "updated_at": "2026-11-13T16:05:17.764135+00:00",
   "status": "ok",
   "count": 1571,
   "sources": {
@@ -9,7 +9,7 @@
     "Capper.win": 0
   },
   "errors": {
-    "SportsPickLab": "https://sportspicklab.com/api/public/picksJSON: HTTPError: 502 Server Error: Bad Gateway for url: https://sportspicklab.com/api/public/picksJSON | https://sportspicklab.com/feed.json: HTTPError: 502 Server Error: Bad Gateway for url: https://sportspicklab.com/feed.json",
+    "SportsPickLab": "https://sportspicklab.com/api/public/picksJSON: HTTPError: 521 Server Error: <none> for url: https://sportspicklab.com/api/public/picksJSON | https://sportspicklab.com/feed.json: HTTPError: 521 Server Error: <none> for url: https://sportspicklab.com/feed.json",
     "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-13&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-13&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-13&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-13&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-13&tz=UTC&market=handicap"
   },
   "picks": [
