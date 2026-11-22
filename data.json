@@ -1,6 +1,6 @@
 {
   "source": "Multi-source picks aggregator",
-  "updated_at": "2026-11-21T22:59:51.270785+00:00",
+  "updated_at": "2026-11-22T03:01:35.268788+00:00",
   "status": "ok",
   "count": 1571,
   "sources": {
@@ -10,7 +10,7 @@
   },
   "errors": {
     "SportsPickLab": "https://sportspicklab.com/api/public/picksJSON: HTTPError: 404 Client Error: Not Found for url: https://sportspicklab.com/api/public/picksJSON | https://sportspicklab.com/feed.json: JSONDecodeError: Expecting value: line 1 column 1 (char 0)",
-    "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-21&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-21&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-21&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-21&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-21&tz=UTC&market=handicap"
+    "Capper.win": "total_goals: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-22&tz=UTC&market=total_goals | corners: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-22&tz=UTC&market=corners | match_winner: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-22&tz=UTC&market=match_winner | double_chance: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-22&tz=UTC&market=double_chance | handicap: HTTPError: 401 Client Error: Unauthorized for url: https://capper.win/api/v2/list?date=2026-11-22&tz=UTC&market=handicap"
   },
   "picks": [
     {
